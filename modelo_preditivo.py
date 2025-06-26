@@ -25,3 +25,4 @@ previsao = m.predict(futuro)
 # Plotar resultado
 fig = plot_plotly(m, previsao)
 fig.show()
+
